@@ -799,8 +799,15 @@ footer {
     height: 0;
     z-index: 3;
     background-color: white;
+    outline: none;
+    cursor: pointer;
   }
 
+  .previous_arrow button,
+  .next_arrow button {
+    cursor: pointer;
+    outline: none;
+  }
   .schedule {
     margin: 2rem;
   }
