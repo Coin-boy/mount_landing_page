@@ -803,6 +803,10 @@ footer {
     cursor: pointer;
   }
 
+  .next,
+  .previous {
+    color: var(--primary-color);
+  }
   .schedule {
     margin: 2rem;
   }
