@@ -807,6 +807,8 @@ footer {
   .next_arrow button {
     cursor: pointer;
     outline: none;
+    border: none;
+    color: transparent;
   }
   .schedule {
     margin: 2rem;
