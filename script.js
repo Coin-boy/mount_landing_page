@@ -36,10 +36,10 @@ menubar.addEventListener("click", MenuBarAnimation);
 accordionbar.addEventListener("click", AccrodionBarAnimation);
 
 mountain1.addEventListener("click", function () {
-  document.querySelector(".team").style.background = "url(/img/team_peak.png)";
+  document.querySelector(".team").style.background = "url(img/team_peak.png)";
 });
 mountain2.addEventListener("click", function () {
-  document.querySelector(".team").style.background = "url(/img/mountain2.png)";
+  document.querySelector(".team").style.background = "url(img/mountain2.png)";
 });
 
 // Let first image width

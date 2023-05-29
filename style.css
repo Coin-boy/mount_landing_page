@@ -111,7 +111,7 @@ header {
   position: relative;
   flex-flow: column nowrap;
   justify-content: center;
-  background: url("/img/header_background.png");
+  background: url("img/header_background.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position-x: -60rem;
@@ -353,7 +353,7 @@ main {
   flex-flow: column nowrap;
   justify-content: center;
   align-items: center;
-  background: url("/img/history_peak.png");
+  background: url("img/history_peak.png");
   background-size: cover;
 }
 
